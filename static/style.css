@@ -312,6 +312,7 @@ blockquote::after {
 }
 .ui-article-content p {
     margin: 8px 0;
+	text-indent:2em;
 }
 .ui-article-content ul {
     list-style-type: square;
