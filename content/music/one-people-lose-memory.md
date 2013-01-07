@@ -1,7 +1,7 @@
-# 《一个人失忆》
+# 合作系列（一）：《一个人失忆》
 
 - pubdate:2011-06-21
-- tags: guitar, music
+- tags: music, cooperation
 
 
 -----------

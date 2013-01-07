@@ -1,11 +1,20 @@
 {
     "source": "content",
     "output": "_site",
+    "sitename": "kaizi's blog",
     "theme": "_themes/one",
     "permalink": "{{directory}}/{{filename}}.html",
+    "discus": "yukai44444",
+    "navigation": [
+        {"title": "Music", "link": "music/index.html"},
+        {"title": "Work", "link": "work/index.html"}
+    ],
     "writers": [
+        "nico.ArchiveWriter",
         "nico.PostWriter",
+        "nico.PageWriter",
         "nico.FileWriter",
+        "nico.DirectoryWriter",
         "nico.StaticWriter"
     ]
 }
