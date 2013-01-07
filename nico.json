@@ -4,7 +4,7 @@
     "sitename": "kaizi's blog",
     "theme": "_themes/one",
     "permalink": "{{directory}}/{{filename}}.html",
-    "disqus": "kaizi",
+    "duoshuo": "kaizi",
     "navigation": [
         {"title": "Music", "link": "music/index.html"},
         {"title": "Work", "link": "work/index.html"}
