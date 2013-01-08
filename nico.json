@@ -6,8 +6,7 @@
     "permalink": "{{directory}}/{{filename}}.html",
     "duoshuo": "kaizi",
     "navigation": [
-        {"title": "Music", "link": "music/index.html"},
-        {"title": "Work", "link": "work/index.html"}
+        {"title": "Music", "link": "music/index.html"}
     ],
     "writers": [
         "nico.ArchiveWriter",
