@@ -1,8 +1,8 @@
 publish: build upload
 
 build:
-	liquidluck
+	nico build
 
 upload:
-	rsync -av --del deploy/ kaizi@ssh.kaizi.me:/home/kaizi/blog
+	rsync -av --del deploy/ kaizi@96.126.122.58:/home/kaizi/blog
 	@echo "Done..."
