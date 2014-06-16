@@ -1,0 +1,21 @@
+{
+    "source": "content",
+    "output": "_site",
+    "sitename": "Kyler Yu's blog",
+    "theme": "_themes/one",
+    "permalink": "{{directory}}/{{filename}}.html",
+    "duoshuo": "kaizi",
+    "navigation": [
+        {"title": "Music", "link": "music/index.html"},
+        {"title": "Work", "link": "work/index.html"},
+        {"title": "Life", "link": "life/index.html"}
+    ],
+    "writers": [
+        "nico.ArchiveWriter",
+        "nico.PostWriter",
+        "nico.PageWriter",
+        "nico.FileWriter",
+        "nico.DirectoryWriter",
+        "nico.StaticWriter"
+    ]
+}
