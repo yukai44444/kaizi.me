@@ -1,6 +1,6 @@
 # Mac 10.9 下搭建php开发环境
 
-- pubdate:2014-02-21
+- pubdate: 2014-02-21
 - tags: work
 
 

@@ -1,6 +1,6 @@
 # 吉他指弹（二）：《漂》
 
-- pubdate:2012-01-04
+- pubdate: 2012-01-04
 - tags: music, fingerstyle
 
 

@@ -1,6 +1,6 @@
 # 吉他指弹（四）：《衷心地感谢你》
 
-- pubdate:2012-04-22
+- pubdate: 2012-04-22
 - tags: music, fingerstyle
 
 

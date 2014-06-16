@@ -1,6 +1,6 @@
 # 合作系列（三）：《爸爸》
 
-- pubdate:2012-02-10
+- pubdate: 2012-02-10
 - tags: music, cooperation
 
 

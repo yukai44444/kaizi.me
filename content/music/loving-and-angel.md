@@ -1,6 +1,6 @@
 # 乐队系列（一）：《恋爱ing》和《天使》
 
-- pubdate:2012-05-02
+- pubdate: 2012-05-02
 - tags: music, band
 
 

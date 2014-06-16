@@ -1,6 +1,6 @@
 # 合作系列（一）：《一个人失忆》
 
-- pubdate:2011-06-21
+- pubdate: 2011-06-21
 - tags: music, cooperation
 
 

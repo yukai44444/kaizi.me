@@ -1,6 +1,6 @@
 # 吉他指弹（五）：《Earth Angel》
 
-- pubdate:2012-09-29
+- pubdate: 2012-09-29
 - tags: music, fingerstyle
 
 

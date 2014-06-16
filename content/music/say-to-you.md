@@ -1,6 +1,6 @@
 # 合作系列（二）：《对你说》
 
-- pubdate:2012-01-30
+- pubdate: 2012-01-30
 - tags: music, cooperation
 
 

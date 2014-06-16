@@ -1,6 +1,6 @@
 # 思索人生1
 
-- pubdate:2014-06-16
+- pubdate: 2014-06-16
 - tags: life
 
 

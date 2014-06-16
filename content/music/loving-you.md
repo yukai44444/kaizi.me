@@ -1,6 +1,6 @@
 # 吉他指弹（三）：《Loving You》
 
-- pubdate:2012-04-03
+- pubdate: 2012-04-03
 - tags: music, fingerstyle
 
 

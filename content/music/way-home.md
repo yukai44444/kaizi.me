@@ -1,6 +1,6 @@
 # 吉他指弹（一）：《Way Home》（家路）
 
-- pubdate:2011-12-12
+- pubdate: 2011-12-12
 - tags: music, fingerstyle
 
 
