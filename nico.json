@@ -1,7 +1,7 @@
 {
     "source": "content",
     "output": "_site",
-    "sitename": "Kyler Yu's blog",
+    "sitename": "Yu Bingye's blog",
     "theme": "_themes/one",
     "permalink": "{{directory}}/{{filename}}.html",
     "duoshuo": "kaizi",
